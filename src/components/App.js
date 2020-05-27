@@ -9,8 +9,8 @@ function App() {
   return (
     <BrowserRouter>
       <div className="ui container">
-        <Route path="/" exact render={(props)=><Home {...props}/>}/>
-        <Route path="/map/:deviceId/:sensorId" exact render={(props)=><Map {...props}/>}/>
+        <Route path="Distronix_Assignment_Live_Device_Tracking/" exact render={(props)=><Home {...props}/>}/>
+        <Route path="Distronix_Assignment_Live_Device_Tracking/map/:deviceId/:sensorId" exact render={(props)=><Map {...props}/>}/>
       </div>
     </BrowserRouter>
   );
