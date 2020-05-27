@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Distronix_Assignment_Live_Device_Tracking/static/css/main.ed57398d.chunk.css",
+    "main.js": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.41a5faca.chunk.js",
+    "main.js.map": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.41a5faca.chunk.js.map",
+    "runtime-main.js": "/Distronix_Assignment_Live_Device_Tracking/static/js/runtime-main.1967b2de.js",
+    "runtime-main.js.map": "/Distronix_Assignment_Live_Device_Tracking/static/js/runtime-main.1967b2de.js.map",
+    "static/js/2.d140b169.chunk.js": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.d140b169.chunk.js",
+    "static/js/2.d140b169.chunk.js.map": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.d140b169.chunk.js.map",
+    "index.html": "/Distronix_Assignment_Live_Device_Tracking/index.html",
+    "precache-manifest.8c86780c05fcfc07f2939dfd49f83008.js": "/Distronix_Assignment_Live_Device_Tracking/precache-manifest.8c86780c05fcfc07f2939dfd49f83008.js",
+    "service-worker.js": "/Distronix_Assignment_Live_Device_Tracking/service-worker.js",
+    "static/css/main.ed57398d.chunk.css.map": "/Distronix_Assignment_Live_Device_Tracking/static/css/main.ed57398d.chunk.css.map",
+    "static/js/2.d140b169.chunk.js.LICENSE.txt": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.d140b169.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1967b2de.js",
+    "static/js/2.d140b169.chunk.js",
+    "static/css/main.ed57398d.chunk.css",
+    "static/js/main.41a5faca.chunk.js"
+  ]
+}
