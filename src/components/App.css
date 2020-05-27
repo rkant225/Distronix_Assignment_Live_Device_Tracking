@@ -1,0 +1,22 @@
+body{
+  background-color: rgba(0,0,255,0.5);
+}
+.info-collection-form{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.map-container{
+  text-align: center;
+}
+
+.home-link{
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 100px;
+}
