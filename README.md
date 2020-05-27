@@ -1,6 +1,6 @@
 ## About this App
 This Application helps us to track the live location of our IOT device which have a sensor(GPS) attached to it.
-In home page of App you will see a form with 2 fields Device ID and Sensor ID, Once you provide valic ID's Click on Track Device Button.
+In home page of App you will see a form with 2 fields `Device ID` and `Sensor ID`, Once you provide valid ID's Click on `Track Device` Button.
 And finaly you will be navigated to Maps Page and in URL you can see your Device ID and Sensor ID, Also this will give you updated location every 5 seconds.
 
 ## You can find the hosted version of this app here
