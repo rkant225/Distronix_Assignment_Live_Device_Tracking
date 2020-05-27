@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b909ef71aac73be4f72f40981df79d02",
+    "revision": "582f8c20a8ab9c884bce8d63d485fd9e",
     "url": "/Distronix_Assignment_Live_Device_Tracking/index.html"
   },
   {
-    "revision": "739b1c1ab125546bd4e8",
+    "revision": "7ff4d42329d13d6c2995",
     "url": "/Distronix_Assignment_Live_Device_Tracking/static/css/main.ed57398d.chunk.css"
   },
   {
-    "revision": "d2a7102fe7ffedab842f",
-    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.d140b169.chunk.js"
+    "revision": "dcc95bce19a0404febf5",
+    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.410d8574.chunk.js"
   },
   {
     "revision": "031b62b957b4fb917cd0ec81e2c8bd7b",
-    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.d140b169.chunk.js.LICENSE.txt"
+    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.410d8574.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "739b1c1ab125546bd4e8",
-    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.483ca435.chunk.js"
+    "revision": "7ff4d42329d13d6c2995",
+    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.7553903a.chunk.js"
   },
   {
     "revision": "fe047fe11c664033c4e4",
