@@ -21,7 +21,8 @@ class Home extends React.Component {
     // Form submit handler, Currently we are simply navigating to Map's component.
     // Navigation will happen only if user have provided some data for both the fields.
     onSubmit = (formData) => {
-        this.props.history.push(`/map/${formData.deviceId}/${formData.sensorId}`)
+        // this.props.history.push(`/map/${formData.deviceId}/${formData.sensorId}`)
+        this.props.history.push(`/ParkingLot/${formData.deviceId}`)
     }
 
     render(){
