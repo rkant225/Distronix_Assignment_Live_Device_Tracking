@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Distronix_Assignment_Live_Device_Tracking/precache-manifest.e0845c733ac9a02222cd2b427dd22f3e.js"
+  "/Distronix_Assignment_Live_Device_Tracking/precache-manifest.7496339be42fda7f91a4dedadeed2c82.js"
 );
 
 self.addEventListener('message', (event) => {
