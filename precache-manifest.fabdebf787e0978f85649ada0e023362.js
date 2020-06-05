@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5fc8dbe0ef9b945f74e21a17367b1b31",
+    "revision": "be49809691e240f5d21b5451b3c8d77e",
     "url": "/Distronix_Assignment_Live_Device_Tracking/index.html"
   },
   {
-    "revision": "17ae18dfaff321ea6a98",
+    "revision": "52c2c04dd68a763534f5",
     "url": "/Distronix_Assignment_Live_Device_Tracking/static/css/main.8467b6ba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/2.591b6848.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17ae18dfaff321ea6a98",
-    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.dc7eca13.chunk.js"
+    "revision": "52c2c04dd68a763534f5",
+    "url": "/Distronix_Assignment_Live_Device_Tracking/static/js/main.834c2963.chunk.js"
   },
   {
     "revision": "fe047fe11c664033c4e4",
