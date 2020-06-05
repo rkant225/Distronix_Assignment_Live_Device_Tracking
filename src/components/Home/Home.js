@@ -29,6 +29,7 @@ class Home extends React.Component {
         return(
             <div className="info-collection-form">
                 <h2>Track location of your device</h2>
+                <h6>Sample Device Id :: 4d872a60f3f17a6a02a27fa72d303a34</h6>
                 <form onSubmit={this.props.handleSubmit(this.onSubmit)} className="ui form">
                     <Field name="deviceId" component={this.renderInput} label="Device_ID" validate={[this.required]}/>
                     <Field name="sensorId" component={this.renderInput} label="Sensor_ID" validate={[this.required]}/>

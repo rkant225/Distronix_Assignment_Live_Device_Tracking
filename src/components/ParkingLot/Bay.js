@@ -31,7 +31,11 @@ class Bay extends React.Component {
         const {id, height, width, active} = this.props;
         return(
             <div className="bay" style={{height: `${height}px`, width : `${width}px`, backgroundColor : this.getColor(active)}} onClick={() => this.toggleStatus(id)}> 
-                
+                <div className="bay-name">
+                    Bay {id}
+                    <br/>
+                    {active ? "Active" : "InActive"}
+                </div>
             </div>
         );
     }

@@ -24,12 +24,16 @@ class ParkingLot extends React.Component {
                     <Link className="home-link" to="/">Home</Link>
                 </h1>
                 {lots.length > 0 ?
-                    <div className="parking-lot-container">                    
-                        {lots.map(lot =>{
-                            return(
-                                <Bay key={lot.id} id={lot.id} width={lot.width} height={lot.height} active={lot.active}/>
-                            );
-                        })}                    
+                    <div>
+                        <div className="parking-lot-container">                    
+                            {lots.map(lot =>{
+                                return(
+                                    <Bay key={lot.id} id={lot.id} width={lot.width} height={lot.height} active={lot.active}/>
+                                );
+                            })} 
+                            <br/>  
+                        </div>
+                        <h5>Instruction : Click on "BAY" to toggle status.</h5>                 
                     </div>
               : <h1>No data Found...!!!, please enter valid device ID</h1>}
                 
