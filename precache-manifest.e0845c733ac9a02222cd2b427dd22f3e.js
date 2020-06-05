@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be49809691e240f5d21b5451b3c8d77e",
+    "revision": "0153954da6b3792360852dbd13d26510",
     "url": "/Distronix_Assignment_Live_Device_Tracking/index.html"
   },
   {
